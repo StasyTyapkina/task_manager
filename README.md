@@ -8,7 +8,7 @@ Open a terminal in the root directory of the application and run npm install to 
 After installing dependencies, run npm start to launch the application.
 
 
-## Live demo: [Click here]([https://stasytyapkina.github.io/Demo/#/main](https://stasytyapkina.github.io/task_manager/)) 
+## Live demo: [Click here](https://stasytyapkina.github.io/task_manager/)
 
 ### `Key Features`
 
